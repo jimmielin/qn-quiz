@@ -1,0 +1,10 @@
+body {
+    background-image: url(../../../img/bases/lighthouse.jpg);
+    background-size: cover;
+}
+
+#branding {
+    text-shadow: 2px 2px 6px #000;
+}
+
+    #branding h4, #branding h4 small { color: #FFF !important; }
